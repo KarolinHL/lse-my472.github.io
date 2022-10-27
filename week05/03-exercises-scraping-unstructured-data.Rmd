@@ -22,6 +22,8 @@ An example here will be the website [http://ipaidabribe.com](http://ipaidabribe.
 
 ```{r}
 url <- 'http://ipaidabribe.com/reports/paid'
+
+here you go.
 ```
 
 We will also be using `rvest`, but in a slightly different way: Prior to scraping, we need to identify the CSS selector of each element we want to extract. 
