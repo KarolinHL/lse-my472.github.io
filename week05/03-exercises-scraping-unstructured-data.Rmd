@@ -23,7 +23,6 @@ An example here will be the website [http://ipaidabribe.com](http://ipaidabribe.
 ```{r}
 url <- 'http://ipaidabribe.com/reports/paid'
 
-here you go.
 ```
 
 We will also be using `rvest`, but in a slightly different way: Prior to scraping, we need to identify the CSS selector of each element we want to extract. 
@@ -34,7 +33,7 @@ Now we're ready to scrape the website:
 
 ```{r}
 # Reading the HTML code
-bribe_html <- _________(url)
+bribe_html <- read_html(url)
 
 # Identify the CSS selector and add it to the css argument
 bribe_nodes <- html_elements(bribe_html, css = "____________")
