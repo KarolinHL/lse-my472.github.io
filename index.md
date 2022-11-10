@@ -20,15 +20,16 @@ All students are required to complete the preparatory course 'R Advanced for Met
 
 Office hour slots to be booked via LSE's StudentHub
 
-* [Friedrich Geiecke](f.c.geiecke@lse.ac.uk), Department of Methodology.  *Office hours*: Tuesdays 5-7pm (book via Student Hub)
-* Yuhao Qian
+* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of Methodology.  *Office hours*: Tuesdays 5-7pm (book via Student Hub)
+* Yuhao Qian, Department of Economics.
 
 ### Course information
 
 * Lecture:
     - Tuesdays 9-11am, MAR.2.08
 * Classes:
-    - Thursdays 1-3pm, NAB.2.08
+    - Thursdays 1-2pm, NAB.2.08
+    - Thursdays 2-3pm, CBG.2.05
     - Thursdays 5-6pm, NAB.2.16
 
 No lectures or classes will take place during (Reading) Week 6.
@@ -44,7 +45,7 @@ No lectures or classes will take place during (Reading) Week 6.
 | 4  | 18 Oct | [Textual data](#4-textual-data) |  
 | 5  | 25 Oct | [HTML and CSS](#5-html-and-css) |
 | 6  |  1 Nov | _Reading week_ |  
-| 7  | 7 Nov | [XML, RSS, and scraping non-static pages](#7-xml,-rss,-and-scraping-non-static-pages) |   
+| 7  | 7 Nov | [XML, RSS, and scraping non-static pages](#7-xml-rss-and-scraping-non-static-pages) |   
 | 8  | 14 Nov | [Working with APIs](#8-working-with-apis) |  
 | 9  | 21 Nov | [Creating and managing databases](#9-creating-and-managing-databases) |  
 | 10 |  28 Nov | [Interacting with online databases](#10-interacting-with-online-databases)|  
@@ -206,7 +207,7 @@ In this week, we will learn how to obtain the data from the internet. This week 
 
 ##### Seminar
 
-- Code: [Scraping unstructured data](week05/03-exercises-scraping-unstructured-data.Rmd)
+- Code: [Scraping unstructured data](week05/03-exercises-scraping-unstructured-data.Rmd), [solution](week05/03-exercises-scraping-unstructured-data-solution.Rmd)
 
 
 ##### Reading
