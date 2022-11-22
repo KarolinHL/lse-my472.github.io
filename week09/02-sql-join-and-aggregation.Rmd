@@ -175,6 +175,7 @@ dbGetQuery(db,
   "SELECT SUBSTR(date, 9, 2) AS day_of_month, COUNT(*) as post_count
   FROM posts
   GROUP BY day_of_month")
+# counts the positions in YYYY-MM-DD
 
 ```
 
